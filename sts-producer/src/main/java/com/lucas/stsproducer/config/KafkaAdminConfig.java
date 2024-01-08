@@ -10,6 +10,7 @@ import org.springframework.kafka.config.TopicBuilder;
 import org.springframework.kafka.core.KafkaAdmin;
 
 import java.util.HashMap;
+
 @RequiredArgsConstructor
 @Configuration
 public class KafkaAdminConfig {
